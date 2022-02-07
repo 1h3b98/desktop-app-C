@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605482861 source:d:\esprit\projet c\gestion_ouvrier\gestion_ouvrier\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ouvrier.h"
+
+1605656096 d:\esprit\projet c\gestion_ouvrier\gestion_ouvrier\ouvrier.h
+

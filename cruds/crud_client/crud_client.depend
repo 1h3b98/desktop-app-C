@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1605396257 source:c:\esprit 2020-2021\projet programmation c\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605637084 source:c:\esprit 2020-2021\projet programmation c\cruds\crud_client\client.c
+	"client.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1605645766 c:\esprit 2020-2021\projet programmation c\cruds\crud_client\client.h
+
+1605645766 source:c:\esprit 2020-2021\projet programmation c\cruds\crud_client\main.c
+	<stdio.h>
+	<stdlib.h>
+	"client.h"
+

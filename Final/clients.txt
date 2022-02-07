@@ -1,0 +1,41 @@
+1
+06543210
+Malek
+Barkaoui
+Femme
+28 Décembre 2020
+50123456
+malek@domain.tn
+Rue Malek
+Chèque CB
+2
+06987654
+Chayma
+Guesmi
+Femme
+31 Décembre 2020
+20123456
+chayma@domain.tn
+Rue Chayma
+Chèque CB
+3
+06456789
+Iheb
+Saad
+Homme
+10 Janvier 2021
+70123456
+iheb@domain.tn
+Rue Iheb
+Chèque 
+4
+06111111
+Thamer
+Barhoumi
+Homme
+13 Janvier 2021
+40123456
+thamer@domain.tn
+Rue Thamer
+Espèces 
+6

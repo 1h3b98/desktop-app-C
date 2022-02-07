@@ -1,0 +1,81 @@
+0
+Kerkeni
+Ramzi
+Homme
+96385274
+24 Decombre 2020
+ouvrier agricole
+Rue Ramzi
+ 1
+Barkaoui
+Malek
+Femme
+96385296
+31 Decombre 2020
+securite
+Rue Malek
+ 2
+Saad
+Iheb
+Homme
+52369871
+7 Juin 2020
+securite
+Rue Iheb
+ 3
+Barhoumi
+Thamer
+Homme
+74185236
+4 Aout 2020
+ouvrier agricole
+Rue Thamer
+ 4
+Younes
+Med Ali
+Homme
+74185200
+4 Aout 2021
+ouvrier agricole
+Rue Ali
+ 5
+Lajili
+Salem
+Homme
+74188886
+9 Aout 2020
+ouvrier agricole
+Rue Seif
+ 6
+Guesmi
+Chayma
+Femme
+58476936
+5 Juin 2017
+ouvrier agricole
+Rue Chayma
+7
+Lajili
+Seif
+Homme
+55555555
+4 Fevrier 2018
+ouvrier agricole
+Rue Lajili
+8
+Kerkeni
+Yassine
+Homme
+40000000
+5 Mai 2017
+ouvrier agricole
+Rue Yasine
+9
+Miled
+Youssef
+Homme
+52634100
+4 Aout 2017
+ouvrier agricole
+Rue Youssef
+10
